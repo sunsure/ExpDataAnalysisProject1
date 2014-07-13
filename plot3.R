@@ -14,4 +14,5 @@ legend("topright",
        col = c("black", "red", "blue"))
 
 detach(hpc)
+
 dev.off()
