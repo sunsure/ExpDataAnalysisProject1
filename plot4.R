@@ -25,4 +25,5 @@ plot(Time, Global_reactive_power, type = "n", xlab = "datetime")
 lines(Time, Global_reactive_power)
 
 detach(hpc)
+
 dev.off()
