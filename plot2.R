@@ -11,4 +11,5 @@ plot(Time, Global_active_power,
 lines(Time, Global_active_power)
 
 detach(hpc)
+
 dev.off()
